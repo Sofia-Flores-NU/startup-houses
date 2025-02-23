@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { useRef } from 'react';
 import { useScroll, useTransform, motion } from 'framer-motion';
 import blockPic from '/public/illustrations/frontdoor.png';
-import pic1 from '/public/houses/one.jpg';
+import pic1 from '/public/updatedpics/sidwalk1.png';
 import pic2 from '/public/houses/two.jpg';
 import pic3 from '/public/houses/three.jpg';
 import pic4 from '/public/houses/four.jpg';
